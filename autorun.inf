@@ -1,7 +1,7 @@
 [AutoRun.Amd64]
 icon=favicon.ico
-label=BOOT-HYUNSEOK
+label=BOOT-LOOPBACK-KR
 
 [AutoRun]
 icon=favicon.ico
-label=BOOT-HYUNSEOK
+label=BOOT-LOOPBACK-KR
