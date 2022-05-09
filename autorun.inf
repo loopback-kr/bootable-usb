@@ -1,7 +1,7 @@
 [AutoRun.Amd64]
 icon=favicon.ico
-label=BOOT-LOOPBACK-KR
+label=Bootable device
 
 [AutoRun]
 icon=favicon.ico
-label=BOOT-LOOPBACK-KR
+label=Bootable device
